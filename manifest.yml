@@ -1,7 +1,7 @@
 applications:
-- host: smartcars
+- host: skyfleet
   disk: 128M
-  name: smartcars
+  name: skyfleet
   command: node app.js
   path: .
   domain: mybluemix.net
